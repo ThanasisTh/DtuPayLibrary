@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+target
+out
+*.iml
+.thorntail-runner-cache
+itworks.jar
+
